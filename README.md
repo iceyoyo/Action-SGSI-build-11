@@ -1,9 +1,4 @@
-# Action-SGSI-build-11 -LZY修改
-> 修复制作超过2G的SGSI无法上传Release的问题
->
-> 修改为只跑AB
->
-> 已修复之前不能跑包的问题
+# Action-SGSI-build-11 -安柠修改版
 
 ## 快速开始
 
@@ -48,3 +43,5 @@ tar xzvf ${fileName}.tar.gz            # 解压
 本项目受 [SGSI-build-action](https://github.com/xiaoxindada/SGSI-build-action) 项目启发。
 
 感谢[xiaoxindada](https://github.com/xiaoxindada)的开源。
+
+感谢LZY的原脚本
