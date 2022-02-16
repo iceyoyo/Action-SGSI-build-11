@@ -29,14 +29,9 @@
 
 ## 后续步骤
 
-由于[Github large binaries](https://docs.github.com/en/github/managing-large-files/working-with-large-files/distributing-large-binaries)限制，制作后的SGSI若超过**2GB**则**无法上传**，因此本Action将自动根据制作后的SGSI大小选择**直接上传**/**分卷上传**
+下载对应版本号的固件下载用twrp刷入即可
 
-若以分卷方式上传，请下载每个分卷后手动合卷解压
-
-```
-cat ${fileName}*>${fileName}.tar.gz    # 将分卷文件fileName*合并
-tar xzvf ${fileName}.tar.gz            # 解压
-```
+如有提供fix文件也请一同下载按刷入
 
 ## 版权与致谢
 
