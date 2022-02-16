@@ -1,5 +1,7 @@
 # Action-SGSI-build-11 -安柠修改版
 
+-修改为只跑基于n95适配n8p的MIUI13
+
 ## 快速开始
 
 1. Fork此仓库
@@ -12,7 +14,7 @@
 
    |说明               |Name       |Value(按你自己的需求填写)                                                 |
    |:------:           |:------:   | :------------------------:                                               |
-   |待制作包链接       |ROM_URL    |https://hugeota.d.miui.com/21.5.31/miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip|
+   |待制作包链接       |ROM_URL    |https://bigota.d.miui.com/22.2.10/miui_CANNON_22.2.10_49485a2005_11.0.zip|
    |待制作包名称       |ZIP_NAME   |miui_TUCANA_21.5.31_cb42ec9bed_11.0.zip                                   |
    |待制作包种类       |OS_TYPE    |miui                                                                      |
    |打包名称           |REPACK_NAME|SGSI.zip                                                                  |
