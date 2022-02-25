@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       ROM_URL:
-        description: 'ROM_URL'
+        description: 'ROM_URL'https://cdn-test-ota.blackshark.com/KLE-A0/20210823140248-klein-ota-signed_by_xiaomi_994e97bdc06b7f379c1f947be12ab3bd.zip
         required: true
         default: 'https://bigota.d.miui.com/22.2.10/miui_CANNON_22.2.10_49485a2005_11.0.zip'
       ZIP_NAME:
